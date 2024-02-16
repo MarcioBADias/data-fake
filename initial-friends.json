@@ -1,18 +1,32 @@
-{
-    id: crypto.randomUUID(),
-    name: 'Henrique',
-    amount: -7,
-    img: `/imgs/friends/henrique-48.jpg`
+[
+  {
+    "id": "85e460c2-fc2e-41b9-8750-d9ad7c343b17",
+    "name": "Fabio",
+    "amount": -7,
+    "img": "/imgs/friends/henrique-48.jpg"
   },
   {
-    id: crypto.randomUUID(),
-    name: 'Renata',
-    amount: 20,
-    img: `/imgs/friends/renata-48.jpg`
+    "id": "92408273-16e6-48ad-aec1-90fc983d327b",
+    "name": "Sheila",
+    "amount": 20,
+    "img": "/imgs/friends/renata-48.jpg"
   },
   {
-    id: crypto.randomUUID(),
-    name: 'Antonio',
-    amount: 0,
-    img: `/imgs/friends/antonio-48.jpg`
+    "id": "074e33b-bbfe-4026-aabe-575bb049e4e9",
+    "name": "Humberto",
+    "amount": 20,
+    "img": "/imgs/friends/renata-48.jpg"
+  },
+  {
+    "id": "5496b83f-d4ed-4617-b41e-65ddfa7508da",
+    "name": "Yuri",
+    "amount": 20,
+    "img": "/imgs/friends/renata-48.jpg"
+  },
+  {
+    "id": "26fadd5f-c488-44c3-98e4-cfa811c2db34",
+    "name": "Rodrigo",
+    "amount": 0,
+    "img": "/imgs/friends/antonio-48.jpg"
   }
+]
