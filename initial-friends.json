@@ -1,0 +1,18 @@
+{
+    id: crypto.randomUUID(),
+    name: 'Henrique',
+    amount: -7,
+    img: `/imgs/friends/henrique-48.jpg`
+  },
+  {
+    id: crypto.randomUUID(),
+    name: 'Renata',
+    amount: 20,
+    img: `/imgs/friends/renata-48.jpg`
+  },
+  {
+    id: crypto.randomUUID(),
+    name: 'Antonio',
+    amount: 0,
+    img: `/imgs/friends/antonio-48.jpg`
+  }
