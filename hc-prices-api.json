@@ -505,371 +505,371 @@
         "SerialNumber": "001",
         "CharacterName": "The Collector",
         "rarity": "C",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "002",
         "CharacterName": "Iron Man Sentry",
         "rarity": "C",
-        "price":5
+        "price":5.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "003",
         "CharacterName": "Kree Accuser",
         "rarity": "C",
-        "price":1.5
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "004",
         "CharacterName": "Baby Groot",
         "rarity": "C",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "005",
         "CharacterName": "Rocket",
         "rarity": "C",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "006",
         "CharacterName": "Cosmo",
         "rarity": "C",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "007",
         "CharacterName": "S.H.I.E.L.D. Agent",
         "rarity": "C",
-        "price":1.5
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "008",
         "CharacterName": "Swarm of Ants",
         "rarity": "C",
-        "price":3
+        "price":3.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "009",
         "CharacterName": "Thieves Guild Member",
         "rarity": "C",
-        "price":2
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "010",
         "CharacterName": "White Widow",
         "rarity": "C",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "011",
         "CharacterName": "Kree Soldier",
         "rarity": "C",
-        "price":1.5
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "012",
         "CharacterName": "Thanos",
         "rarity": "C",
-        "price":1.5
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "013",
         "CharacterName": "Adaptoid",
         "rarity": "C",
-        "price":1.5
+        "price":2.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "014",
         "CharacterName": "Monica Rappaccini",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "015",
         "CharacterName": "Iron Man",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "016",
         "CharacterName": "Hala the Accuser",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "017",
         "CharacterName": "Star-Lord",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "018",
         "CharacterName": "Gamora",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "019",
         "CharacterName": "Mantis",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "020",
         "CharacterName": "Nebula",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "021",
         "CharacterName": "Wasp",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "022",
         "CharacterName": "Gambit",
         "rarity": "UC",
-        "price":1
+        "price":1.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "023a",
         "CharacterName": "Iron Man",
         "rarity": "R",
-        "price":4
+        "price":4.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "023b",
         "CharacterName": "Iron Man",
         "rarity": "R",
-        "price":14
+        "price":14.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "024",
         "CharacterName": "Cosmic Rider",
         "rarity": "R",
-        "price":5
+        "price":5.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "025",
         "CharacterName": "Groot",
         "rarity": "R",
-        "price":4
+        "price":4.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "026",
         "CharacterName": "Drax",
         "rarity": "R",
-        "price":3
+        "price":3.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "027",
         "CharacterName": "Winter Soldier",
         "rarity": "R",
-        "price":3
+        "price":3.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "028",
         "CharacterName": "Giant-Man",
         "rarity": "R",
-        "price":3
+        "price":3.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "029",
         "CharacterName": "Grizzly",
         "rarity": "R",
-        "price":3
+        "price":3.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "030",
         "CharacterName": "Thor",
         "rarity": "SR",
-        "price":33
+        "price":33.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "031a",
         "CharacterName": "Juggernaut",
         "rarity": "SR",
-        "price":90
+        "price":90.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "031b",
         "CharacterName": "Juggerduck",
         "rarity": "SR",
-        "price":80
+        "price":80.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "032",
         "CharacterName": "Beta Ray Bill",
         "rarity": "SR",
-        "price":35
+        "price":35.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "033",
         "CharacterName": "Ronan the Accuser",
         "rarity": "SR",
-        "price":20
+        "price":20.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "034",
         "CharacterName": "Yondu",
         "rarity": "SR",
-        "price":20
+        "price":20.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "035",
         "CharacterName": "Ant-Man",
         "rarity": "SR",
-        "price":8
+        "price":8.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "036",
         "CharacterName": "Ulysses Bloodstone",
         "rarity": "SR",
-        "price":30
+        "price":30.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "037a",
         "CharacterName": "Namor",
         "rarity": "SR",
-        "price":25
+        "price":25.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "037b",
         "CharacterName": "Namor w/ Serpent Crown",
         "rarity": "SR",
-        "price":110
+        "price":110.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "038",
         "CharacterName": "Loki",
         "rarity": "CH",
-        "price":60
+        "price":60.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "039",
         "CharacterName": "Deadpool",
         "rarity": "CH",
-        "price":50
+        "price":50.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "040",
         "CharacterName": "Thanos",
         "rarity": "CH",
-        "price":95
+        "price":95.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "041",
         "CharacterName": "Black Panther",
         "rarity": "CH",
-        "price":50
+        "price":50.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "042",
         "CharacterName": "Scarlet Witch",
         "rarity": "CH",
-        "price":95
+        "price":95.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "043",
         "CharacterName": "Dr. Doom",
         "rarity": "CH",
-        "price":90
+        "price":90.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "044",
         "CharacterName": "Dr. Strange",
         "rarity": "CH",
-        "price":65
+        "price":65.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "045",
         "CharacterName": "Agatha",
         "rarity": "CH",
-        "price":65
+        "price":65.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "046",
         "CharacterName": "The Collector",
         "rarity": "UCH",
-        "price":90
+        "price":90.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "101",
         "CharacterName": "Gamora",
         "rarity": "LT",
-        "price":5
+        "price":5.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "100",
         "CharacterName": "Nebula",
         "rarity": "LT",
-        "price":4
+        "price":4.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "099",
         "CharacterName": "The Collector",
         "rarity": "LT",
-        "price":5
+        "price":5.0
     },
     {
         "collection": "cltr",
         "SerialNumber": "102",
         "CharacterName": "Ultimate Hulk",
         "rarity": "LT",
-        "price":30
+        "price":30.0
     }
   
 ]
