@@ -1,63 +1,63 @@
 [
     
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "001",
         "CharacterName":"Spider-Man",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "002",
         "CharacterName":"Mysterio",
         "Rarity":"C",
         "Price":2.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "003",
         "CharacterName":"Spider-Byte",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "004",
         "CharacterName":"Iceman",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "004",
         "CharacterName":"Iceman",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "005",
         "CharacterName":"Spider-Man",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "006",
         "CharacterName":"Goon",
         "Rarity":"C",
         "Price":2.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "007",
         "CharacterName":"Inner Demon",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "008a",
         "CharacterName":"Black Symbiote",
         "Rarity":"C",
@@ -65,7 +65,7 @@
     },
     
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "008b",
         "CharacterName":"Red Symbiote",
         "Rarity":"C",
@@ -73,63 +73,63 @@
     },
 
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "009",
         "CharacterName":"Man Mountain Marko",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "010",
         "CharacterName":"Spider-Bot",
         "Rarity":"C",
         "Price":2.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "011",
         "CharacterName":"Ghost Spider",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "012",
         "CharacterName":"Spider-Clone",
         "Rarity":"C",
         "Price":2.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "013",
         "CharacterName":"Dr. Curt Connor",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "014",
         "CharacterName":"Spider-Man Noir",
         "Rarity":"C",
         "Price":1.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "015",
         "CharacterName":"Goblin Army",
         "Rarity":"C",
         "Price":2.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "016",
         "CharacterName":"Spiders-Man",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "017",
         "CharacterName":"Venom",
         "Rarity":"UC",
@@ -137,42 +137,42 @@
     },
    
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "018",
         "CharacterName":"Mysterio",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "019",
         "CharacterName":"Spider-Byte",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "020",
         "CharacterName":"Slyde",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "021",
         "CharacterName":"Spider-Man",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "022",
         "CharacterName":"Norman Osborn",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "023",
         "CharacterName":"Mr. Negative",
         "Rarity":"UC",
@@ -180,42 +180,42 @@
     },
    
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "024",
         "CharacterName":"Scarlet Spider",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "025",
         "CharacterName":"Tombstone",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "026",
         "CharacterName":"Gwen Stacy",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "027",
         "CharacterName":"The Lizard",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "028",
         "CharacterName":"Spider-Man",
         "Rarity":"UC",
         "Price":1.5
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "029",
         "CharacterName":"Spider-Man 2099",
         "Rarity":"R",
@@ -223,126 +223,126 @@
     },
    
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "030",
         "CharacterName":"The Spider",
         "Rarity":"R",
         "Price":6.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "031",
         "CharacterName":"Spider-Man",
         "Rarity":"R",
         "Price":10.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "032",
         "CharacterName":"Ashley Barton",
         "Rarity":"R",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "033",
         "CharacterName":"Spider-Punk",
         "Rarity":"R",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "034",
         "CharacterName":"Glider",
         "Rarity":"R",
         "Price":12.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "035",
         "CharacterName":"Firestar",
         "Rarity":"R",
         "Price":6.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "036",
         "CharacterName":"Spider-Cat",
         "Rarity":"R",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "037",
         "CharacterName":"Stunner",
         "Rarity":"R",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "038",
         "CharacterName":"Spider-UK",
         "Rarity":"R",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "039",
         "CharacterName":"Morlun",
         "Rarity":"R",
         "Price":6.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "040",
         "CharacterName":"The Spot",
         "Rarity":"SR",
         "Price":35.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "041",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "042",
         "CharacterName":"Spider-Man",
         "Rarity":"SR",
         "Price":18.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "043",
         "CharacterName":"Kangaroo",
         "Rarity":"SR",
         "Price":15.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "044",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "045",
         "CharacterName":"Hypno-Hustler",
         "Rarity":"SR",
         "Price":17.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "046",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "047",
         "CharacterName":"Superior Octopus",
         "Rarity":"SR",
@@ -350,98 +350,98 @@
     },
    
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "048",
         "CharacterName":"Lady Stilt-Man",
         "Rarity":"SR",
         "Price":20.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "050",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "051",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "052",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "053",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "054",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "055",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "056",
         "CharacterName":"PENDENTE",
         "Rarity":"SR",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "057",
         "CharacterName":"Kraven",
         "Rarity":"CH",
         "Price":100.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "058",
         "CharacterName":"Sand-Man",
         "Rarity":"CH",
         "Price":110.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "059",
         "CharacterName":"PENDENTE",
         "Rarity":"CH",
         "Price":0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "200",
         "CharacterName":"SPIDER-MAN, SPIDER-MAN, AND GHOST SPIDER",
         "Rarity":"PROMO",
         "Price":20.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "201",
         "CharacterName":"SPIDER-REX",
         "Rarity":"PROMO",
         "Price":30.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "LG05",
         "CharacterName":"Spider-Mobile",
         "Rarity":"LEGACY",
@@ -449,21 +449,21 @@
     },
    
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "LG07",
         "CharacterName":"Spider-Girl",
         "Rarity":"LEGACY",
         "Price":9.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "LG00",
         "CharacterName":"Scarlet Spider",
         "Rarity":"LEGACY",
         "Price":9.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "OS01",
         "CharacterName":"Canon Event",
         "Rarity":"ONE-SHOT",
@@ -471,14 +471,14 @@
     },
     
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "OS02",
         "CharacterName":"Spider Totem",
         "Rarity":"ONE-SHOT",
         "Price":5.0
     },
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "OS03",
         "CharacterName":"Web-Swinging",
         "Rarity":"ONE-SHOT",
@@ -486,7 +486,7 @@
     },
     
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "OS04",
         "CharacterName":"Assist from Another World",
         "Rarity":"ONE-SHOT",
@@ -494,7 +494,7 @@
     },
   
     {
-        "Collection":"SPV",
+        "Collection":"msv",
         "SerialNumber": "OS05",
         "CharacterName":"Assemble the Team",
         "Rarity":"ONE-SHOT",
@@ -505,21 +505,21 @@
         "SerialNumber": "001",
         "CharacterName": "The Collector",
         "rarity": "C",
-        "price": "PENDENTE"
+        "price": 1
     },
     {
         "collection": "cltr",
         "SerialNumber": "002",
         "CharacterName": "Iron Man Sentry",
         "rarity": "C",
-        "price": "PENDENTE"
+        "price": 5
     },
     {
         "collection": "cltr",
         "SerialNumber": "003",
         "CharacterName": "Kree Accuser",
         "rarity": "C",
-        "price": "PENDENTE"
+        "price": 1.5
     },
     {
         "collection": "cltr",
