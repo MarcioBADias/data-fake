@@ -499,6 +499,286 @@
         "CharacterName":"Assemble the Team",
         "Rarity":"ONE-SHOT",
         "Price":5.0
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "001",
+        "CharacterName": "The Collector",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "002",
+        "CharacterName": "Iron Man Sentry",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "003",
+        "CharacterName": "Kree Accuser",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "004",
+        "CharacterName": "Baby Groot",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "005",
+        "CharacterName": "Rocket",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "006",
+        "CharacterName": "Cosmo",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "007",
+        "CharacterName": "S.H.I.E.L.D. Agent",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "008",
+        "CharacterName": "Swarm of Ants",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "009",
+        "CharacterName": "Thieves Guild Member",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "010",
+        "CharacterName": "White Widow",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "011",
+        "CharacterName": "Kree Soldier",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "012",
+        "CharacterName": "Thanos",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "013",
+        "CharacterName": "Adaptoid",
+        "rarity": "C",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "014",
+        "CharacterName": "Monica Rappaccini",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "015",
+        "CharacterName": "Iron Man",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "016",
+        "CharacterName": "Hala the Accuser",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "017",
+        "CharacterName": "Star-Lord",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "018",
+        "CharacterName": "Gamora",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "019",
+        "CharacterName": "Mantis",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "020",
+        "CharacterName": "Nebula",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "021",
+        "CharacterName": "Wasp",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "022",
+        "CharacterName": "Gambit",
+        "rarity": "UC",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "023",
+        "CharacterName": "Iron Man",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "024",
+        "CharacterName": "Cosmic Rider",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "025",
+        "CharacterName": "Groot",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "026",
+        "CharacterName": "Drax",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "027",
+        "CharacterName": "Winter Soldier",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "028",
+        "CharacterName": "Giant-Man",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "029",
+        "CharacterName": "Grizzly",
+        "rarity": "R",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "030",
+        "CharacterName": "Thor",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "031",
+        "CharacterName": "Juggernaut",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "032",
+        "CharacterName": "Beta Ray Bill",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "033",
+        "CharacterName": "Ronan the Accuser",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "034",
+        "CharacterName": "Yondu",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "035",
+        "CharacterName": "Ant-Man",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "036",
+        "CharacterName": "Ulysses Bloodstone",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "037",
+        "CharacterName": "Namor",
+        "rarity": "SR",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "038",
+        "CharacterName": "Loki",
+        "rarity": "CH",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "039",
+        "CharacterName": "Deadpool",
+        "rarity": "CH",
+        "price": "PENDENTE"
+    },
+    {
+        "collection": "cltr",
+        "SerialNumber": "040",
+        "CharacterName": "Thanos",
+        "rarity": "CH",
+        "price": "PENDENTE"
     }
   
 ]
