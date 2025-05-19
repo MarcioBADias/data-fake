@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dqt-537",
+    "question": "Não é um fundamento da República Federativa do Brasil:",
+    "options": [
+      "cidadania",
+      "pluralismo político",
+      "soberania",
+      "presidencialismo",
+      "dignidade da pessoa humana"
+    ],
+    "correctOption": 4,
+    "points": 10
+  },
+  {
+    "id": "rod-395",
+    "question": "É um fundamento da República Federativa do Brasil",
+    "options": [
+      "livre iniciativa",
+      "parlamentarismo",
+      "presidencialismo",
+      "liberade econômica",
+      "direitos culturais"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": "hdj-917",
+    "question": "Não é um dos Poderes da República Federativa do Brasil",
+    "options": [
+      "Legislativo",
+      "Executivo",
+      "Judiciário",
+      "Moderador",
+      "NDA"
+    ],
+    "correctOption": 4,
+    "points": 10
+  },
+  {
+    "id": "dyh-293",
+    "question": "Os Poderes da República Federativa do Brasil são o Legislativo, o Executivo e o Judiciário e têm como principal característica entre si serem:",
+    "options": [
+      "dependente e harmônicos",
+      "vinculados e harmônicos",
+      "independentes e soberanos",
+      "independnetes e harmônicos",
+      "dependentes e discricionários"
+    ],
+    "correctOption": 4,
+    "points": 10
+  },
+  {
+    "id": "odl-847",
+    "question": "O nome completo do Brasil é:",
+    "options": [
+      "República Federativa do Brasil",
+      "República presidencialista do Brasil.",
+      "Federalismo Brasileiro",
+      "Estados Unidos do Brasil"
+    ],
+    "correctOption": 1,
+    "points": 10
+  }
+]
