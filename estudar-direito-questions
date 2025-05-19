@@ -9,7 +9,7 @@
       "presidencialismo",
       "dignidade da pessoa humana"
     ],
-    "correctOption": 4,
+    "correctOption": 3,
     "points": 10
   },
   {
@@ -22,7 +22,7 @@
       "liberade econômica",
       "direitos culturais"
     ],
-    "correctOption": 1,
+    "correctOption": 0,
     "points": 10
   },
   {
@@ -35,7 +35,7 @@
       "Moderador",
       "NDA"
     ],
-    "correctOption": 4,
+    "correctOption": 3,
     "points": 10
   },
   {
@@ -48,7 +48,7 @@
       "independnetes e harmônicos",
       "dependentes e discricionários"
     ],
-    "correctOption": 4,
+    "correctOption": 3,
     "points": 10
   },
   {
@@ -60,7 +60,7 @@
       "Federalismo Brasileiro",
       "Estados Unidos do Brasil"
     ],
-    "correctOption": 1,
+    "correctOption": 0,
     "points": 10
   }
 ]
