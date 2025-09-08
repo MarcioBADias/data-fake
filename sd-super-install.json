@@ -1,0 +1,21 @@
+[
+  {
+    "id": "i001",
+    "title": "Executando o instalador do SDSuper",
+    "content": [
+      {
+        "id": "i001.1",
+        "text": "Para confirmar o IP do servidor Windows funcionando abrir o WIN+R e escrever '\\ip_do_servidor_win\\SDProgs$', se abrir está tudo certo, senão precisa configurar a credencial pelo gerenciador de credenciais, adicionando o ip, o nome como administrador e a senha que é SD@super0212."
+      },
+      {
+        "id": "i001.2",
+        "text": "Copiar o instalador do SD Super para maquina do retaguarda"
+      },
+      {
+        "id": "i003",
+        "text": "Ao executar o instalador marcar as opções 'Esse computador não será Servidor' e 'relatórios', além de inserir o APIP no campo que pede acesso."
+      }
+    ],
+    "copyArea": null
+  }
+]
