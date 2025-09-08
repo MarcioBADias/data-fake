@@ -138,5 +138,24 @@
       }
     ],
     "copyArea": null
+  },
+   {
+    "id": "i009",
+    "title": "Instalação do Gsurf",
+    "content": [
+      {
+        "id": "i009.1",
+        "text": "Verificar se o cliente é cadastrado no site do Gsurf (https://cdp.gsurfnet.com/) e se houver cadastro seguir instalação."
+      },
+      {
+        "id": "i009.2",
+        "text": "Instalar o setup do GSurf e no campo *** digitar sitef"
+      },
+      {
+        "id": "i009.3",
+        "text": "Rodar o certificado do Gsurf com login e senha doo site e OTP do caixa que estiver instalando."
+      }
+    ],
+    "copyArea": null
   }
 ]
