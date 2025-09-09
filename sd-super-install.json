@@ -5,15 +5,27 @@
     "content": [
       {
         "id": "i001.1",
-        "text": "Para confirmar o IP do servidor Windows funcionando abrir o WIN+R e escrever '\\ip_do_servidor_win\\SDProgs$', se abrir está tudo certo, senão precisa configurar a credencial pelo gerenciador de credenciais, adicionando o ip, o nome como administrador e a senha que é SD@super0212."
+        "text": "Para adiantar sua instalação vai no servidor do cliente e anota em um rascunho o APIP (Ip do servidor), BDIP (Ip do banco de dados) e numero de filial. Podemos pegar essas informações no REGEDIT acesssando > HKEY_LOCAL_MACHINE > SOFTWARE > WOW6432NODE > SDInformatica > SDSuper: APIP (Por o ip do servidor Windows)/ Ativador caminho (ip do servidor Windows) / BDIP (ip do Linux, onde encontra o banco de dados)"
       },
       {
         "id": "i001.2",
+        "text": "Para confirmar o IP do servidor Windows funcionando abrir o WIN+R e escrever '\\ip_do_servidor_win\\SDProgs$', se abrir está tudo certo, senão precisa configurar a credencial pelo gerenciador de credenciais, adicionando o ip, o nome como administrador e a senha que é SD@super0212."
+      },
+      {
+        "id": "i001.3",
         "text": "Copiar o instalador do SD Super para maquina do retaguarda"
       },
       {
-        "id": "i003",
+        "id": "i004",
         "text": "Ao executar o instalador marcar as opções 'Esse computador não será Servidor' e 'relatórios', além de inserir o APIP no campo que pede acesso."
+      },
+      {
+        "id": "i004",
+        "text": "PULO DO GATO! Para instalar pode-se por o CNPJ da SD (04260756/0001-20) e a chave 322685"
+      },
+      {
+        "id": "i004",
+        "text": "Seguir a instalação confirmando Filial e aceitando os botões posteriores."
       }
     ],
     "copyArea": null
