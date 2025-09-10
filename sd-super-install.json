@@ -29,5 +29,24 @@
       }
     ],
     "copyArea": null
+  },
+  {
+    "id": "i002",
+    "title": "Abrindo o Super pela primeira vez",
+    "content": [
+      {
+        "id": "i002.1",
+        "text": "Botão direito no atalho para iniciar o Super e vamos habilitar a opção de executar como administrador indo em PROPRIEDADES > AVANÇADOS > marcar  em EXECUTAR COMO ADMINISTRADOR. Depois buscar ma aba de COMPATIBILIDADE clicar a opção EXECUTAR PROGRAMA COMO ADMINISTRADOR."
+      },
+      {
+        "id": "i002.2",
+        "text": " Inicializar o Super. Ele vai reclamar do formado de moedas e você segue em avançados e muda o formato da moeda."
+      },
+      {
+        "id": "i002.3",
+        "text": "Ir no Regedit passar a limpo os campo APIP e ativador (que usa o mesmo IP do APIP), BDIP e Filial. Depois pode abrir o Super que ele atualizar e abrir normalmente."
+      }
+    ],
+    "copyArea": null
   }
 ]
