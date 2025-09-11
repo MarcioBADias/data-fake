@@ -32,7 +32,7 @@
   },
   {
     "id": "i002",
-    "title": "Abrindo o Super pela primeira vez",
+    "title": "Abrindo o Super pela Primeira vez",
     "content": [
       {
         "id": "i002.1",
@@ -45,6 +45,25 @@
       {
         "id": "i002.3",
         "text": "Ir no Regedit passar a limpo os campo APIP e ativador (que usa o mesmo IP do APIP), BDIP e Filial. Depois pode abrir o Super que ele atualizar e abrir normalmente."
+      }
+    ],
+    "copyArea": null
+  },
+  {
+    "id": "i003",
+    "title": "Ultimas configurações e testes",
+    "content": [
+      {
+        "id": "i003.1",
+        "text": "No Super assimq ue abrir vai ser preciso ir em FISCAL > NF > CONFIGURAÇÔES, confirma as instalações que vão ser solicitadas e entao o Super fecha sozinho e vamos abrir novamente."
+      },
+      {
+        "id": "i003.2",
+        "text": "Depois vamos em CONTROLE > COMPUTADOR > PERIFERICOS > no ultimo campo tem IMPRESSORAS e seleciona a opção impressora do windows."
+      },
+      {
+        "id": "i003.3",
+        "text": "Para finalizar vai em ATUALIZAR e pinga para os PDVs e pronto Super instalado."
       }
     ],
     "copyArea": null
